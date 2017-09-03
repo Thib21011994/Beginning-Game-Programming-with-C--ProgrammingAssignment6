@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/fonts/Arial24.spritefont</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/Back.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/clubs/Ace.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/clubs/Eight.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/clubs/Five.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/clubs/Four.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/clubs/Jack.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/clubs/King.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/clubs/Nine.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/clubs/Queen.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/clubs/Seven.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/clubs/Six.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/clubs/Ten.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/clubs/Three.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/clubs/Two.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/diamonds/Ace.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/diamonds/Eight.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/diamonds/Five.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/diamonds/Four.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/diamonds/Jack.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/diamonds/King.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/diamonds/Nine.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/diamonds/Queen.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/diamonds/Seven.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/diamonds/Six.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/diamonds/Ten.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/diamonds/Three.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/diamonds/Two.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/hearts/Ace.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/hearts/Eight.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/hearts/Five.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/hearts/Four.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/hearts/Jack.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/hearts/King.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/hearts/Nine.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/hearts/Queen.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/hearts/Seven.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/hearts/Six.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/hearts/Ten.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/hearts/Three.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/hearts/Two.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/spades/Ace.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/spades/Eight.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/spades/Five.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/spades/Four.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/spades/Jack.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/spades/King.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/spades/Nine.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/spades/Queen.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/spades/Seven.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/spades/Six.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/spades/Ten.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/spades/Three.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Class Libraries MonoGame/XnaCards/content/Windows/graphics/spades/Two.png</File>
+  </SourceFiles>
+</SourceFileCollection>
